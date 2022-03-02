@@ -1,3 +1,6 @@
 this is thefirsttext in git
 
-thisis the firstchange i made
+this is the first change i made
+ 
+this is the third change i made
+
